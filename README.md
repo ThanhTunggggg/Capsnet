@@ -1,3 +1,3 @@
 # Capsnet
-Traffic sign detection use capsule networks
+Traffic sign detection by using capsules network
 (in processing)
