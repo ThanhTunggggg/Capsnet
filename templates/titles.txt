@@ -1,0 +1,10 @@
+stop give way
+turn left ahead
+turn right ahead
+no left turn
+no right turn
+no entry vehicular traffic
+maximum speed
+minimum speed
+minimum speed end
+national speed limit
