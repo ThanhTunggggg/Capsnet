@@ -1,3 +1,5 @@
 # Capsnet
-Traffic sign detection by using capsules network
-(in processing)
+Traffic sign detection use capsules network and HSV colorspace
+Train: 			python train_capsnet.py
+Run: 			python main.py
+
