@@ -1,0 +1,174 @@
+====================
+TRAIN
+Loading train datasets
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00000
+	n datasets: 210
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00001
+	n datasets: 2220
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00002
+	n datasets: 2250
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00003
+	n datasets: 1410
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00004
+	n datasets: 1980
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00005
+	n datasets: 1860
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00006
+	n datasets: 420
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00007
+	n datasets: 1440
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00008
+	n datasets: 1410
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00009
+	n datasets: 1470
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00010
+	n datasets: 2010
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00011
+	n datasets: 1320
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00012
+	n datasets: 2100
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00013
+	n datasets: 2160
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00014
+	n datasets: 780
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00015
+	n datasets: 630
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00016
+	n datasets: 420
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00017
+	n datasets: 1110
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00018
+	n datasets: 1200
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00019
+	n datasets: 210
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00020
+	n datasets: 360
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00021
+	n datasets: 330
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00022
+	n datasets: 390
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00023
+	n datasets: 510
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00024
+	n datasets: 270
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00025
+	n datasets: 1500
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00026
+	n datasets: 600
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00027
+	n datasets: 240
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00028
+	n datasets: 540
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00029
+	n datasets: 270
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00030
+	n datasets: 450
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00031
+	n datasets: 780
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00032
+	n datasets: 240
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00033
+	n datasets: 689
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00034
+	n datasets: 420
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00035
+	n datasets: 1200
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00036
+	n datasets: 390
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00037
+	n datasets: 210
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00038
+	n datasets: 2070
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00039
+	n datasets: 300
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00040
+	n datasets: 360
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00041
+	n datasets: 240
+	Processing...
+	D:\workspace\TrafficSignRecognitionAndDetection\Dataset\Train\GTSRB_Final_Training_Images\Final_Training\Images\00042
+	n datasets: 240
+	Processing...
+Time: 245.982705s
+-----
+HOG calculating
+	Processing...
+Time: 7.055393s
+-----
+Training
+	Processing...
+Time: 16.897027s
+-----
+SVM visualize
+	Processing...
+Time: 267.378772s
+-----
+Time: 537.358014s
+-----
+====================
+TEST
+Loading test datasets
+	n datasets: 12630
+	Processing...
+Time: 64.582706s
+-----
+HOG calculating
+	Processing...
+Time: 2.138914s
+-----
+Loading model
+Time: 0.380103s
+-----
+Testing
+	Processing...
+Time: 4.980236s
+-----
+Evaluating
+	Percentage Accuracy: 91.25 %
+	Confusion matrix
+Time: 2.793446s
+-----
+Time: 74.884452s
+-----
+[Finished in 614.1s]
