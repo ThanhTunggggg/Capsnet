@@ -14,7 +14,7 @@ Dataset: https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_tra
 - Keras
 - OpenCV 3
 - docopt 0.6.2
-- Sklearn: 0.18.1
+- Sklearn 0.18.1
 - Matplotlib
 
 ## Train
