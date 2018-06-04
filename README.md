@@ -21,7 +21,16 @@ Dataset: https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_tra
 
     $> python train_capsnet.py -h
     $> python train_capsnet.py dataset/
+## Test
 
+On the Test dataset:
+
+    $> python test_capsnet.py outputs/checkpoints/ckpt_name dataset/ 
+    
+On images in from_web folder:
+
+    $> python test_web_images.py outputs/checkpoints/ckpt_name
+    
 ## Run
 
     $> python main.py
