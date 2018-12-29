@@ -67,8 +67,8 @@ def run_model():
 				f.write(' '.join(str(x) for x in elem))
 
 if __name__ == '__main__':
-	# extract_video_datasets('D:\workspace\TrafficSignRecognitionAndDetection\Contest\datasets\Orginal\\abc')
-	# create_train_datasets('D:\workspace\TrafficSignRecognitionAndDetection\Contest\datasets\Orginal\\abc\_10')
+	# extract_video_datasets('')
+	# create_train_datasets('')
 	# capsules_network()
 #    with open("signnames.csv", "r") as f:
 #        signnames = f.read()
@@ -89,10 +89,3 @@ if __name__ == '__main__':
 #    print("loadinggg...")
     
     run_model()
-#'''
-#	for img_dir in glob.glob('D:\workspace\\TrafficSignRecognitionAndDetection\Contest\datasets\Images\_5\*'):
-#		print(img_dir.split('.')[0] + '111' + '.jpg')
-#		img = cv2.imread(img_dir)
-#		img = cv2.flip(img, 1)
-#		cv2.imwrite(img_dir.split('.')[0] + '_flip' + '.jpg', img)
-#'''
