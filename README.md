@@ -17,11 +17,11 @@ Dataset: https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_tra
 - Sklearn 0.18.1
 - Matplotlib
 
-## Train
+## Train CapNet
 
     $> python train_capsnet.py -h
     $> python train_capsnet.py dataset/
-## Test
+## Test CapNet
 
 On the Test dataset:
 
@@ -31,6 +31,6 @@ On images in from_web folder:
 
     $> python test_web_images.py outputs/checkpoints/ckpt_name
     
-## Run
+## Run detection
 
     $> python main.py
